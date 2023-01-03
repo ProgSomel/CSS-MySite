@@ -1,5 +1,14 @@
 body {
   margin: 0; /*it will be marging all for sides */
+  /* If we want to everybody has to seen same font then we need font embedding */
+  font-family: 'Merriweather', serif;
+}
+h1 {
+  margin-top: 0;
+  font-family: 'Sacramento', cursive;
+}
+h2 {
+  font-family: 'Montserrat', sans-serif;
 }
 .top-container {
   background-color: #e4f9f5;
